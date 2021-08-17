@@ -1,0 +1,14 @@
+{
+  "name": "mathcalculator",
+  "version": "1.1.0",
+  "description": "is a math calc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "rincy",
+  "license": "ISC"
+}
